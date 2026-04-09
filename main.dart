@@ -75,7 +75,7 @@ class _CopilotScreenState extends State<CopilotScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("ASSCAT AI Copilot"),
+        title: Text("ADSSU AI Copilot"),
         actions: [
           IconButton(
             icon: Icon(Icons.wifi),
