@@ -11,3 +11,5 @@ Agile Requirements: Write three (3) User Stories using the format:
 'As a [User], I want [AI Feature], so that [Benefit].'
 
 -As a Student, I want an AI chatbot interface, so that I can quickly access information without navigating menus.
+-As a Student, I want the AI to understand English and Bisaya, so that I can interact comfortably using my preferred language.
+-As a Student, I want personalized responses from the AI, so that I receive relevant information based on my profile.
