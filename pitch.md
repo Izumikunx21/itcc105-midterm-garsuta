@@ -5,7 +5,7 @@ Problem Statement: Why is the old menu-based portal inefficient?
 Industry 5.0 Justification: How will your AI empower humans rather than replace
 them?
 
--The ASSCAT Campus AI Copilot follows the principles of Industry 5.0, where technology works alongside humans rather than replacing them. The AI serves as a smart assistant that helps students by providing instant answers, recommendations, and guidance, making interactions faster and easier. At the same time, staff still manage the system, while the AI handles repetitive tasks like answering common questions and assisting with navigation.
+-The ADSSU AI Copilot follows the principles of Industry 5.0, where technology works alongside humans rather than replacing them. The AI serves as a smart assistant that helps students by providing instant answers, recommendations, and guidance, making interactions faster and easier. At the same time, staff still manage the system, while the AI handles repetitive tasks like answering common questions and assisting with navigation.
 
 Agile Requirements: Write three (3) User Stories using the format:
 'As a [User], I want [AI Feature], so that [Benefit].'
